@@ -11,7 +11,6 @@ I build scalable, maintainable, and high-performance systems using **Clean Code 
 - **NestJS** 🏰 (Enterprise-grade backend framework)
 - **Express** 🚀 (for lightweight APIs)
 - **TypeORM** 🗄️
-- **NestJS**
 - **Prisma** 🔧 (TypeScript-first ORM)
 - **GraphQL** 📊 (Apollo Server, TypeGraphQL)
 - **tRPC** 🧩 (End-to-end type safety)
